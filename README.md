@@ -8,3 +8,14 @@ IoT system to collect human body temperatures in a public place and allow alert 
 4. Alerting the health agents around, using the buzzer, that an abnormal temperature is recorded.
 5. Sending records to a web server.
 6. Showing a webpage containing the uploaded data.
+
+# Tools used:
+- Arduino IDE
+- ESP8266 board
+- LiquidCrystal_I2C.h library for I2C Liquid Crystal Display (LCD)
+- "ESP8266 WeMos D1 Mini" board (referred to as the microcontroller)
+- breadboard
+- Green and red LEDs
+- LM35 sensor (male to female jumper wires were used to connect it)
+- Buzzer
+- LCD
